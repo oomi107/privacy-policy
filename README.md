@@ -1,3 +1,6 @@
 # privacy-policy
 
-[Karuta App](../karuta-app/index.html)
+[Karuta App](https://oomi107.github.io/privacy-policy/karuta-app/index.html)
+
+
+
